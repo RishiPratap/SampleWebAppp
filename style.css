@@ -1,0 +1,24 @@
+*{
+    margin:0px;
+    padding:2px;
+    font-family: cursive;
+}
+h2{
+    
+    text-decoration: underline;
+    color:red;
+}
+p{
+    
+    color:blue;
+    text-decoration: dashed;
+}
+.header{
+    display:block;
+    position:relative;
+    left:100px;
+    
+}
+hr{
+    background-color:chartreuse;
+}
